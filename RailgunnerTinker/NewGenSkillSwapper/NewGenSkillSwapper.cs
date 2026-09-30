@@ -32,7 +32,7 @@ namespace NewGenSkillSwapper
         public const string PluginGUID = PluginAuthor + "." + PluginName;
         public const string PluginAuthor = "acanthi";
         public const string PluginName = "RailgunnerTinker";
-        public const string PluginVersion = "1.0.0";
+        public const string PluginVersion = "1.1.8";
 
         public static List<SkillSwapConfig> skillSwapConfig = new List<SkillSwapConfig>();
 
